@@ -9,5 +9,5 @@
     <link rel="stylesheet" href="/assets/css/custom.css">
     <title><?= $title ?></title>
 </head>
-<body>
+<body class="d-flex flex-column min-vh-100 justify-content-between">
 <section class="main">
